@@ -21,4 +21,4 @@ Hi There, Welcome to Repleet, the spaced repetition app for Data Structures and 
 
 
 # Tech Stack and Architecture Details
-The Back end of Repleet uses ASP .Net Core for the backend, XUnit for Unit and Integration Tests, ASP .Net Core Identity Framework for Authentication, and Microsoft SQL Server for the Database. As of Now, it's deployed with Azure but I'm looking at using Docker Compose to deploy elsewhere. 
+The Back end of Repleet uses ASP .Net Core for the backend, XUnit for Unit and Integration Tests, ASP .Net Core Identity Framework for Authentication and User Management, and Microsoft SQL Server for the Database. As of Now, it's deployed with Azure but I'm looking at using Docker Compose to deploy elsewhere. 
